@@ -16,7 +16,6 @@
   - [Usage](#Usage)
 - [Contribution](#Contribution)
 - [Maintainers](#Maintainers)
-- [License](#license)
 
 ## Framework
 
@@ -131,8 +130,5 @@ Preparing datasets for testing, modifying the parameters in the run_test.sh, and
 
 ## Maintainers
 
-- [DeepLaboratory](https://github.com/DeepLaboratory)
+- [raycaohmu]https://github.com/raycaohmu)
 
-## License
-
-- [MIT](https://opensource.org/licenses/MIT)
