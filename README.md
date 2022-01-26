@@ -20,7 +20,7 @@
 
 ## Framework
 
-<p align="center"><img width="800" src="https://cdn.jsdelivr.net/gh/DeepLaboratory/AlphaPatho@main/githubpics/githubframe.png"></p>
+<p align="center"><img width="800" src="https://github.com/raycaohmu/AlphaPatho/blob/main/githubpics/githubframe.png?raw=true"></p>
 
 ## Ecosystem
 
@@ -40,7 +40,7 @@
 - Promising generalizability (six heterogenous external datasets with AUCs of 0.93-0.97)
 - Overperform state-of-the-art methods
 
-<p align="center"><img width="800" src="https://cdn.jsdelivr.net/gh/DeepLaboratory/AlphaPatho@main/githubpics/boxplot.png"></p>
+<p align="center"><img width="800" src="https://github.com/raycaohmu/AlphaPatho/blob/main/githubpics/boxplot.png?raw=true"></p>
 
 ## QuickStart
 
@@ -123,7 +123,7 @@ Preparing datasets for testing, modifying the parameters in the run_test.sh, and
     <tbody>
         <tr>
             <td>
-                <a target="_blank" href="https://github.com/DeepLaboratory"><img width="60px" src="https://ghproxy.fsou.cc/https://github.com/DeepLaboratory/AlphaPatho/blob/main/githubpics/photo.jpg"></a>
+                <a target="_blank" href="https://github.com/raycaohmu/AlphaPatho/blob/main/githubpics/photo.jpg?raw=true"></a>
             </td>
         </tr>
     </tbody>
